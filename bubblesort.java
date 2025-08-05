@@ -26,7 +26,7 @@ class bubblesort
             }
     
         }
-        System.out.println("sorted list:");
+        System.out.println("Sorted list:");
         for(int i=0;i<num;i++)
         {
             System.out.println(array[i] +" ");
